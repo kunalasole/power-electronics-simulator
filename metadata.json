@@ -1,0 +1,6 @@
+{
+  "name": "RectifierLab - Power Electronics Studio",
+  "description": "Interactive Single-Phase & Three-Phase Diode/Thyristor Bridge Converter Simulation with real-time schematics, animated current paths, multi-channel oscilloscope, and harmonic FFT analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
